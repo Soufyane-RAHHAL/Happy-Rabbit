@@ -1,0 +1,95 @@
+fileFormatVersion: 2
+guid: 31f2bdb435c2ad54792e487b974e8b9d
+timeCreated: 1500728498
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Animation_0
+    21300002: Animation_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Animation_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 22}
+        - {x: -31, y: 12}
+        - {x: -12, y: -22}
+        - {x: 16, y: -22}
+        - {x: 31, y: -12}
+        - {x: 31, y: 22}
+    - name: Animation_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 99
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 23.5}
+        - {x: -18.5, y: 22.5}
+        - {x: -32.5, y: -4.5}
+        - {x: -32.5, y: -23.5}
+        - {x: 12.5, y: -23.5}
+        - {x: 32.5, y: -19.5}
+        - {x: 32.5, y: 3.5}
+        - {x: 23.5, y: 23.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
